@@ -21,18 +21,46 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Entertainment",Safari TV
 http://103.199.161.254/Content/safari/Live/Channel(Safari)/Stream(01)/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Shalom TV
 http://103.199.160.85/Content/shalom/Live/Channel(Shalom)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Harvest TV
 http://103.199.161.254/Content/harvest/Live/Channel(Harvest)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Harvest TV Keralam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1598187149/ei/LRJCX4vtNL_64-EPjM26sAs/ip/2402%3A3a80%3A518%3A96b5%3A3c55%3A976e%3Ad656%3A5639/id/9Z4KlBBXp6A.0/source/yt_live_broadcast/requiressl/yes/tx/23932702/txs/23932692%2C23932693%2C23932694%2C23932695%2C23932696%2C23932697%2C23932698%2C23932699%2C23932700%2C23932701%2C23932702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgejFQlMkwqOagawgdksP0skKZ26okPZL-WmR8vCzrECACIGZ4bMpyY8vvYC5ocW1jkewvJp2UX8V2y_5tfMIVAGio/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png" tvg-country="IN" tvg-url="" group-title="Religious",Power Vision
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1598112806/ei/xu9AX-K8H9aavwTRlYGoBg/ip/117.230.148.148/id/L42NP9a8paw.3/source/yt_live_broadcast/requiressl/yes/tx/23932702/txs/23932692%2C23932693%2C23932694%2C23932695%2C23932696%2C23932697%2C23932698%2C23932699%2C23932700%2C23932701%2C23932702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANzwzdEocNmcRTfpo_huD1hAllpPTQYPoqFDUZaFIwlxAiEAuHS-baVYzVhoiGSkWhmhAr08Z1RC4R54Zxih67lCU-c%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png" tvg-country="IN" tvg-url="" group-title="Religious",Gregorian TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1598113791/ei/n_NAX9TTD4jmvwTixLLoBQ/ip/117.230.148.148/id/_RtTttVmr0s.0/source/yt_live_broadcast/requiressl/yes/tx/23932702/txs/23932692%2C23932693%2C23932694%2C23932695%2C23932696%2C23932697%2C23932698%2C23932699%2C23932700%2C23932701%2C23932702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALkbcjDeF4Jlmmv7NO4RO0g9jnOX5-trSnp9jHivzIdzAiEA2Ln8Jr-6SFmZ1quMDkv69lWvn_UHwkMxwmu7gjBVFDo%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png" tvg-country="IN" tvg-url="" group-title="Religious",Shekinah TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Goodness
+http://live.wmncdn.net/goodnesstv1/live1.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Harvest TV
+http://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Harvest USA
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Harvest Arabia
+http://live.wmncdn.net/harvesttvkuwait/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Harvest Keralam
+http://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",World 2 World
+http://live.wmncdn.net/worldtoworld/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Heavenly Feast
+http://stream.asianetmobiletvplus.com/livestream/a952e37833f97736edc6a91dfb4b0d54/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",JN Vision
+http://live.wmncdn.net/jnvisiontv/0e1fd802947a734b3af7787436f11588.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Marian
+https://livestream.5centscdn.com/mariantv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Shekinah TV
 https://121tv.livebox.co.in/ShekainahTvhls/shekainahtvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Harvest English
+http://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Good News
+http://live.wmncdn.net/goodnews/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",God TV
+https://zypelive-lh.akamaihd.net/i/default_1@745543/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Hope TV
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Life TV
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/IXrEspP.png" tvg-country="IN" tvg-url="" group-title="Religious",Hosanna TV
+https://msleurope9.akamaized.net/hls/live/2003253/hosanna1/hosanna1/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png" tvg-country="IN" tvg-url="" group-title="Entertainment",Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in_we.png" tvg-country="IN" tvg-url="" group-title="Entertainment",Kairali We
